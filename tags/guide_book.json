@@ -1,0 +1,34 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "guide_book",
+    "targets": [
+        "actuallyadditions:item_booklet:0",
+        "botania:lexicon:0",
+        "cookingforblockheads:recipe_book:0",
+        "cookingforblockheads:recipe_book:1",
+        "cookingforblockheads:recipe_book:2",
+        "draconicevolution:info_tablet:0",
+        "extrautils2:book:0",
+        "guideapi:bloodmagic-guide:0",
+        "guideapi:cyclicmagic-guide:0",
+        "industrialforegoing:book_manual:0",
+        "integrateddynamics:on_the_dynamics_of_integration:0",
+        "openblocks:info_book:0",
+        {
+            "type": "minecraft:dynamic_nbt_item",
+            "registry_name": "patchouli:guide_book",
+            "nbt": "{patchouli:book: \"deepmoblearning:book\"}"
+        },
+        "projecte:item.pe_manual:0",
+        "rftools:rftools_manual:0",
+        "rftools:rftools_shape_manual:0",
+        "rustic:book:0",
+        "spiceoflife:bookfoodjournal:0",
+        "tconstruct:book:0",
+        "wizardry:book:0"
+    ]
+}

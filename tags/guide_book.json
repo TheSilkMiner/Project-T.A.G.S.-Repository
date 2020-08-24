@@ -19,9 +19,11 @@
         "integrateddynamics:on_the_dynamics_of_integration:0",
         "openblocks:info_book:0",
         {
-            "type": "minecraft:dynamic_nbt_item",
+            "type": "minecraft:item",
             "registry_name": "patchouli:guide_book",
-            "nbt": "{patchouli:book: \"deepmoblearning:book\"}"
+            "nbt": {
+                "patchouli:book:string": "deepmoblearning:book" 
+            }
         },
         "projecte:item.pe_manual:0",
         "rftools:rftools_manual:0",

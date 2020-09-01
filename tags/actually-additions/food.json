@@ -1,0 +1,41 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<actuallyadditions:item_canola_seed:0>",
+        "<actuallyadditions:item_coffee:0>",
+        "<actuallyadditions:item_coffee_beans:0>",
+        "<actuallyadditions:item_food:0>",
+        "<actuallyadditions:item_food:1>",
+        "<actuallyadditions:item_food:2>",
+        "<actuallyadditions:item_food:3>",
+        "<actuallyadditions:item_food:4>",
+        "<actuallyadditions:item_food:5>",
+        "<actuallyadditions:item_food:6>",
+        "<actuallyadditions:item_food:7>",
+        "<actuallyadditions:item_food:8>",
+        "<actuallyadditions:item_food:9>",
+        "<actuallyadditions:item_food:10>",
+        "<actuallyadditions:item_food:11>",
+        "<actuallyadditions:item_food:12>",
+        "<actuallyadditions:item_food:13>",
+        "<actuallyadditions:item_food:14>",
+        "<actuallyadditions:item_food:15>",
+        "<actuallyadditions:item_food:16>",
+        "<actuallyadditions:item_food:17>",
+        "<actuallyadditions:item_food:18>",
+        "<actuallyadditions:item_food:19>",
+        "<actuallyadditions:item_food:20>",
+        "<actuallyadditions:item_jam:0>",
+        "<actuallyadditions:item_jam:1>",
+        "<actuallyadditions:item_jam:2>",
+        "<actuallyadditions:item_jam:3>",
+        "<actuallyadditions:item_jam:4>",
+        "<actuallyadditions:item_jam:5>",
+        "<actuallyadditions:item_jam:6>"
+    ]
+}

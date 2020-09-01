@@ -1,0 +1,21 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<nuclearcraft:cocoa_butter:0>",
+        "<nuclearcraft:dark_chocolate:0>",
+        "<nuclearcraft:dominos:0>",
+        "<nuclearcraft:foursmore:0>",
+        "<nuclearcraft:graham_cracker:0>",
+        "<nuclearcraft:ground_cocoa_nibs:0>",
+        "<nuclearcraft:marshmallow:0>",
+        "<nuclearcraft:milk_chocolate:0>",
+        "<nuclearcraft:moresmore:0>",
+        "<nuclearcraft:smore:0>",
+        "<nuclearcraft:unsweetened_chocolate:0>"
+    ]
+}

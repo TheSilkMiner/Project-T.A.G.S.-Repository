@@ -1,0 +1,15 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<calculator:broccoli:0>",
+        "<calculator:cookedbroccoli:0>",
+        "<calculator:fiddledewfruit:0>",
+        "<calculator:pear:0>",
+        "<calculator:rottenpear:0>"
+    ]
+}

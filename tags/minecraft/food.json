@@ -1,0 +1,49 @@
+{
+  "loader": "prjtags:tag",
+  "conditions": [
+    {
+      "type": "prjtags:mc",
+      "version": "1.12.2"
+    }
+  ],
+  "tag": "food",
+  "targets": [
+    "@cropCarrot",
+    "@cropPotato",
+    "minecraft:apple",
+    "minecraft:baked_potato",
+    "minecraft:beef",
+    "minecraft:beetroot",
+    "minecraft:beetroot_soup",
+    "minecraft:bread",
+    "minecraft:carrot",
+    "minecraft:chicken",
+    "minecraft:chorus_fruit",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_fish:0",
+    "minecraft:cooked_fish:1",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cookie",
+    "minecraft:fish:0",
+    "minecraft:fish:1",
+    "minecraft:fish:2",
+    "minecraft:fish:3",
+    "minecraft:golden_apple:0",
+    "minecraft:golden_apple:1",
+    "minecraft:golden_carrot",
+    "minecraft:melon",
+    "minecraft:mushroom_stew",
+    "minecraft:mutton",
+    "minecraft:poisonous_potato",
+    "minecraft:porkchop",
+    "minecraft:potato",
+    "minecraft:pumpkin_pie",
+    "minecraft:rabbit",
+    "minecraft:rabbit_stew",
+    "minecraft:rotten_flesh",
+    "minecraft:spider_eye"
+  ]
+}

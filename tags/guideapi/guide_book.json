@@ -6,8 +6,9 @@
       "version": "1.12.2"
     }
   ],
-  "tag": "food",
+  "tag": "guide_book",
   "targets": [
-    "botania:manacookie"
+    "guideapi:bloodmagic-guide",
+    "guideapi:cyclicmagic-guide"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "loader": "prjtags:tag",
+  "conditions": [
+    {
+      "type": "prjtags:mc",
+      "version": "1.12.2"
+    }
+  ],
+  "tag": "food",
+  "targets": [
+    "actuallyadditions:item_canola_seed",
+    "actuallyadditions:item_coffee",
+    "actuallyadditions:item_coffee_beans",
+    {
+      "type": "dymm:item_meta_range",
+      "registry_name": "actuallyadditions:item_food",
+      "metadata_begin": 0,
+      "metadata_end": 20
+    },
+    {
+      "type": "dymm:item_meta_range",
+      "registry_name": "actuallyadditions:item_jam",
+      "metadata_begin": 0,
+      "metadata_end": 6
+    }
+  ]
+}

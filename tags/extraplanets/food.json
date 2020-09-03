@@ -1,0 +1,18 @@
+{
+  "loader": "prjtags:tag",
+  "conditions": [
+    {
+      "type": "prjtags:mc",
+      "version": "1.12.2"
+    }
+  ],
+  "tag": "food",
+  "targets": [
+    "extraplanets:apple_diamond:0",
+    "extraplanets:apple_diamond:1",
+    "extraplanets:apple_iron:0",
+    "extraplanets:apple_iron:1",
+    "extraplanets:caramel_bar",
+    "extraplanets:chocolate_bar"
+  ]
+}

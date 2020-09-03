@@ -8,14 +8,12 @@
   ],
   "tag": "food",
   "targets": [
-    "forestry:ambrosia",
     {
       "type": "dymm:item_meta_range",
-      "registry_name": "forestry:fruits",
+      "registry_name": "tconstruct:edible",
       "metadata_begin": 0,
-      "metadata_end": 6
+      "metadata_end": 34
     },
-    "forestry:honey_pot",
-    "forestry:honeyed_slice"
+    "tconstruct:moms_spaghetti"
   ]
 }

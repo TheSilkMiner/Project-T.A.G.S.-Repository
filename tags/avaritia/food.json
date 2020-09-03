@@ -1,12 +1,14 @@
 {
-    "loader": "prjtags:tag",
-    "conditions": [{
-        "type": "prjtags:mc",
-        "version": "1.12.2"
-    }],
-    "tag": "food",
-    "targets": [
-        "<avaritia:cosmic_meatballs:0>",
-        "<avaritia:ultimate_stew:0>"
-    ]
+  "loader": "prjtags:tag",
+  "conditions": [
+    {
+      "type": "prjtags:mc",
+      "version": "1.12.2"
+    }
+  ],
+  "tag": "food",
+  "targets": [
+    "avaritia:cosmic_meatballs",
+    "avaritia:ultimate_stew"
+  ]
 }

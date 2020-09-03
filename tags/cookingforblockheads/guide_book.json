@@ -1,0 +1,15 @@
+{
+  "loader": "prjtags:tag",
+  "conditions": [
+    {
+      "type": "prjtags:mc",
+      "version": "1.12.2"
+    }
+  ],
+  "tag": "guide_book",
+  "targets": [
+    "cookingforblockheads:recipe_book:0",
+    "cookingforblockheads:recipe_book:1",
+    "cookingforblockheads:recipe_book:2"
+  ]
+}

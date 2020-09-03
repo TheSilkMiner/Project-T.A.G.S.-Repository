@@ -8,14 +8,12 @@
   ],
   "tag": "food",
   "targets": [
-    "forestry:ambrosia",
+    "galacticraftcore:cheese_curd",
     {
       "type": "dymm:item_meta_range",
-      "registry_name": "forestry:fruits",
+      "registry_name": "galacticraftcore:food",
       "metadata_begin": 0,
-      "metadata_end": 6
-    },
-    "forestry:honey_pot",
-    "forestry:honeyed_slice"
+      "metadata_end": 9
+    }
   ]
 }

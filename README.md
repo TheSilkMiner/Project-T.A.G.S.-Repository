@@ -10,6 +10,7 @@ The root directory must have a `tags` directory and a `lang` directory. Any othe
 ### `tags` directory
 The `tags` directory contains all the tags JSON files that will be read and loaded into the game. Non-JSON files are allowed, but they will be ignored by the mod itself.
 The structure of the JSON files is fixed and follows the specifications that will be available in `tags/SPECS.md`.
+Conventions on the way of naming tags and writing the respective JSON files are outlined in `tags/CONVENTIONS.md`.
 
 ### `lang` directory
 The `lang` directory contains all the localization for the tags.

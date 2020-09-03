@@ -1,0 +1,17 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<quark:cooked_frog_leg:0>",
+        "<quark:frog_leg:0>",
+        "<quark:golden_frog_leg:0>",
+        "<quark:root:0>",
+        "<quark:root_flower:0>",
+        "<quark:root_flower:1>",
+        "<quark:root_flower:2>"
+    ]
+}

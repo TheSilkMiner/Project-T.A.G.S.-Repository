@@ -1,0 +1,31 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<tconstruct:edible:0>",
+        "<tconstruct:edible:1>",
+        "<tconstruct:edible:2>",
+        "<tconstruct:edible:3>",
+        "<tconstruct:edible:4>",
+        "<tconstruct:edible:10>",
+        "<tconstruct:edible:11>",
+        "<tconstruct:edible:12>",
+        "<tconstruct:edible:13>",
+        "<tconstruct:edible:14>",
+        "<tconstruct:edible:15>",
+        "<tconstruct:edible:20>",
+        "<tconstruct:edible:21>",
+        "<tconstruct:edible:22>",
+        "<tconstruct:edible:23>",
+        "<tconstruct:edible:30>",
+        "<tconstruct:edible:31>",
+        "<tconstruct:edible:32>",
+        "<tconstruct:edible:33>",
+        "<tconstruct:edible:34>",
+        "<tconstruct:moms_spaghetti:0>"
+    ]
+}

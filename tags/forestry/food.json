@@ -1,0 +1,20 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<forestry:ambrosia:0>",
+        "<forestry:fruits:0>",
+        "<forestry:fruits:1>",
+        "<forestry:fruits:2>",
+        "<forestry:fruits:3>",
+        "<forestry:fruits:4>",
+        "<forestry:fruits:5>",
+        "<forestry:fruits:6>",
+        "<forestry:honey_pot:0>",
+        "<forestry:honeyed_slice:0>"
+    ]
+}

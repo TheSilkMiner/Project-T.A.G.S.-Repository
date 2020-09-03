@@ -1,0 +1,13 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<cyclicmagic:heart_toxic:0>",
+        "<cyclicmagic:crafting_food:0>",
+        "<cyclicmagic:inventory_food:0>"
+    ]
+}

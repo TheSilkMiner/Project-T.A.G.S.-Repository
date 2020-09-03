@@ -1,0 +1,15 @@
+{
+    "loader": "prjtags:tag",
+    "conditions": [{
+        "type": "prjtags:mc",
+        "version": "1.12.2"
+    }],
+    "tag": "food",
+    "targets": [
+        "<mysticalagriculture:inferium_apple:0>",
+        "<mysticalagriculture:intermedium_apple:0>",
+        "<mysticalagriculture:prudentium_apple:0>",
+        "<mysticalagriculture:superium_apple:0>",
+        "<mysticalagriculture:supremium_apple:0>"
+    ]
+}
